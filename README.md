@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## PATH PLANNING PROBLEMS WITH SIDE-OBSERVATIONS - WHEN COLONELS PLAY HIDE-AND-SEEK
 
-You can use the [editor on GitHub](https://github.com/dongquan11/SOPPP_CB_and_HS_games/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patrick Loiseau, Alonso Silva  & Long Tran-Thanh. 2020. PathPlanning  Problems  with  Side-Observations—When  Colonels  Play  Hide-and-Seek. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*. Article link: https://arxiv.org/abs/1905.11151 (preprint)
 
 ### Markdown
 
@@ -27,11 +25,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dongquan11/SOPPP_CB_and_HS_games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
