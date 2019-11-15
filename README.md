@@ -1,6 +1,6 @@
 ## PATH PLANNING PROBLEMS WITH SIDE-OBSERVATIONS - WHEN COLONELS PLAY HIDE-AND-SEEK
 
-Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patrick Loiseau, Alonso Silva  & Long Tran-Thanh. 2020. Path Planning Problems with Side-Observations—When Colonels Play Hide-and-Seek. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*. Article link: [Link](https://arxiv.org/abs/1905.11151) (preprint)
+Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patrick Loiseau, Alonso Silva  & Long Tran-Thanh. 2020. Path Planning Problems with Side-Observations—When Colonels Play Hide-and-Seek. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*. Article link: [ArXiv Preprint](https://arxiv.org/abs/1905.11151)
 
 ### Introduction
 
