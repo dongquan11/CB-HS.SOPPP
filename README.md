@@ -5,8 +5,8 @@ Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patri
 ### Introduction
 
 We study the sequential learning problems in the Colonel Blotto games and Hide-and-Seek games, that are modeled as Path Planning Problems with Side-Observations (SOPPP). We propose an algorithm, called EXP3-OE, that solves any SOPPP and provides two main improvements in comparison with the state-of-the-art:
-- (i) runs polynomially in terms of the games' parameters, 
-- (ii) provides improved upper-bound guarantees of the expected regret.
+- (i) it runs polynomially in terms of the games' parameters, 
+- (ii) it provides improved upper-bound guarantees of the expected regret.
 In this work, we conducted several experiments in support of these two main novel results. 
 
 
