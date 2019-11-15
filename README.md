@@ -1,6 +1,6 @@
 ## PATH PLANNING PROBLEMS WITH SIDE-OBSERVATIONS - WHEN COLONELS PLAY HIDE-AND-SEEK
 
-Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patrick Loiseau, Alonso Silva  & Long Tran-Thanh. 2020. Path Planning Problems with Side-Observations—When Colonels Play Hide-and-Seek. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*. Article link: https://arxiv.org/abs/1905.11151 (preprint)
+Numerical experiments as supplemental material for the work *Dong-Quan Vu, Patrick Loiseau, Alonso Silva  & Long Tran-Thanh. 2020. Path Planning Problems with Side-Observations—When Colonels Play Hide-and-Seek. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*. Article link: [Link](https://arxiv.org/abs/1905.11151) (preprint)
 
 ### Introduction
 
@@ -9,19 +9,15 @@ We study the sequential learning problems in the Colonel Blotto games and Hide-a
 - (ii) it provides improved upper-bound guarantees of the expected regret.
 In this work, we conducted several experiments in support of these two main novel results. 
 
+### User's Guide:
+The repository consists the following files:
+- Experiment_1.py     # The main file of experiment 1 (see Section 1.)
+- Experiment_2.py     # The main file of experiment 2 (see Section 2.)
+- Experiment_3.py     # The main file of experiment 3 (see Section 3.)
+- Graph_construct.py  # Contruct the corresponding DAG for each instance of the game
+- Weight_pushing.py   # Weight_pushing techniques that allows efficient implementation of EXP3-OE
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
